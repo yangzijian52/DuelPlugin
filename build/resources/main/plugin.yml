@@ -1,0 +1,8 @@
+name: DuelPlugin
+version: 1.0.1
+main: me.yourname.duel.DuelPlugin
+api-version: 1.21
+commands:
+  dt:
+    description: 发起单挑
+    usage: /dt [q]
